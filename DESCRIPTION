@@ -1,0 +1,11 @@
+Package: corumdata
+Type: Package
+Title: Packages CORUM protein complex data
+Version: 0.1.0
+Author: Matt Lawlor
+Maintainer: Matt Lawlor <matt.a.lawlor@gmail.com>
+Description: Contains info about protein complexes.
+License: None
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
